@@ -1,6 +1,3 @@
-# Lesson Title
+# 4.4 Nested Loops with Arrays
 
-Lesson notes go here
-
-
-
+Lesson link: 
