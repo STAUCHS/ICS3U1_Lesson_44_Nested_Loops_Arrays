@@ -1,4 +1,4 @@
-class BiggestGap extends ConsoleProgram{
+class BiggestGap extends ConsoleProgram {
 
   public void run() {
     int[] test = {1,5,7,2,4};
